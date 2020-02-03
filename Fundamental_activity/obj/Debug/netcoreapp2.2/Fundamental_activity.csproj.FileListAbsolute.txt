@@ -1,0 +1,11 @@
+/Users/melissaa.martinez/Desktop/Fundamental_activity/bin/Debug/netcoreapp2.2/Fundamental_activity.deps.json
+/Users/melissaa.martinez/Desktop/Fundamental_activity/bin/Debug/netcoreapp2.2/Fundamental_activity.runtimeconfig.json
+/Users/melissaa.martinez/Desktop/Fundamental_activity/bin/Debug/netcoreapp2.2/Fundamental_activity.runtimeconfig.dev.json
+/Users/melissaa.martinez/Desktop/Fundamental_activity/bin/Debug/netcoreapp2.2/Fundamental_activity.dll
+/Users/melissaa.martinez/Desktop/Fundamental_activity/bin/Debug/netcoreapp2.2/Fundamental_activity.pdb
+/Users/melissaa.martinez/Desktop/Fundamental_activity/obj/Debug/netcoreapp2.2/Fundamental_activity.csprojAssemblyReference.cache
+/Users/melissaa.martinez/Desktop/Fundamental_activity/obj/Debug/netcoreapp2.2/Fundamental_activity.csproj.CoreCompileInputs.cache
+/Users/melissaa.martinez/Desktop/Fundamental_activity/obj/Debug/netcoreapp2.2/Fundamental_activity.AssemblyInfoInputs.cache
+/Users/melissaa.martinez/Desktop/Fundamental_activity/obj/Debug/netcoreapp2.2/Fundamental_activity.AssemblyInfo.cs
+/Users/melissaa.martinez/Desktop/Fundamental_activity/obj/Debug/netcoreapp2.2/Fundamental_activity.dll
+/Users/melissaa.martinez/Desktop/Fundamental_activity/obj/Debug/netcoreapp2.2/Fundamental_activity.pdb
